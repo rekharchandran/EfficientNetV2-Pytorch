@@ -18,3 +18,13 @@ EfficientNetV2-L	119.36M	     56.13G @ 480
 
 EfficientNetV2-XL	208.96M	     93.41G @ 512	
 
+
+### References
+
+https://paperswithcode.com/paper/efficientnetv2-smaller-models-and-faster
+
+https://wandb.ai/wandb_fc/pytorch-image-models/reports/EfficientNetV2--Vmlldzo2NTkwNTQ
+
+http://pytorch.org/vision/main/generated/torchvision.models.efficientnet_v2_s.html
+
+https://pytorch.org/vision/main/_modules/torchvision/models/efficientnet.html
