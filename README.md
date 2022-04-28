@@ -19,6 +19,11 @@ EfficientNetV2-L	119.36M	     56.13G @ 480
 EfficientNetV2-XL	208.96M	     93.41G @ 512	
 
 
+![image](https://user-images.githubusercontent.com/50706192/165751435-6c8426e6-dab8-45bf-8e35-33ba643339bf.png)          ![image](https://user-images.githubusercontent.com/50706192/165751478-4b353928-ec07-47bc-8fa2-46694ef77106.png)
+
+
+
+
 ### References
 
 https://paperswithcode.com/paper/efficientnetv2-smaller-models-and-faster
